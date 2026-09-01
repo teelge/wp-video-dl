@@ -1,0 +1,6 @@
+# wp-video-dl
+downloads/
+logs/
+wp_video_dl_*.log
+__pycache__/
+*.pyc
